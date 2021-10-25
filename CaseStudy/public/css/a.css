@@ -1,0 +1,9 @@
+body{
+    background-image: url("../image/background1.webp");
+    background-color: #cccccc;
+    height: 850px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    position: relative;
+}
